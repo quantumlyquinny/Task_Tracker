@@ -61,5 +61,17 @@ Edit
   "1": {"title": "Complete assignment", "status": "done"},
   "2": {"title": "Go for a walk", "status": "not started"}
 
+##💡 Potential Enhancements
+Task due dates or priority levels
 
+Export to CSV or PDF
+
+GUI version using Tkinter or PyQt
+
+Backup & restore JSON data
+
+Add search or filter by keyword
+
+##Project URL
+https://roadmap.sh/projects/task-tracker
 
